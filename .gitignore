@@ -13,7 +13,10 @@ dist/
 build/
 coverage/
 .next/
+supabase/.temp/
+.local/
 
 # Local tooling
 .DS_Store
 *.log
+*.tsbuildinfo
